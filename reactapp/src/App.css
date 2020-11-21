@@ -1,0 +1,41 @@
+.App table{
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+}
+.search{
+  padding: 12px 20px;
+  box-sizing: border-box;
+  margin-left: 770px;
+}
+td{
+  text-align: center;
+}
+.user{
+  padding: 12px 20px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 10px;
+  
+}
+.userform{
+  margin-left: 500px;
+  width: 100%;
+}
+.delete{
+  color: red;
+}
+.button{
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 12px 20px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  border: 2px solid black; 
+  display: inline-block;
+  font-weight: bold;
+  font-size: 16px;
+}
